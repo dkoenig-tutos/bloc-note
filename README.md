@@ -22,6 +22,10 @@
 
 [Generating a new GPG key](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
 
+## GitOps
+
+[gitops-tour-horizon-pratiques-outils](https://www.objectif-libre.com/fr/blog/2019/12/17/gitops-tour-horizon-pratiques-outils/)
+
 ## Ansible
 
 [Documentation officielle d'Ansible](https://docs.ansible.com/ansible_community.html)
