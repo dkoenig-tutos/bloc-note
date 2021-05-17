@@ -24,7 +24,8 @@
 
 ## GitOps
 
-[gitops-tour-horizon-pratiques-outils](https://www.objectif-libre.com/fr/blog/2019/12/17/gitops-tour-horizon-pratiques-outils/)
+[Gitops tour d'horizon : pratiques et outils](https://www.objectif-libre.com/fr/blog/2019/12/17/gitops-tour-horizon-pratiques-outils/)<br/>
+[A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Ansible
 
