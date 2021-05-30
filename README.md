@@ -1,32 +1,5 @@
 # Bloc-Note
 
-## Active Directory Certificate Services :
-
-[Bonnes pratique d'une PKI ADCS](http://www.e-novatic.fr/bonnes-pratiques-dune-pki-adcs/)
-
-[Installing and configuring CEP and CES for certificate enrolling on non domain joined computers](https://www.vkernel.ro/blog/installing-and-configuring-cep-and-ces-for-certificate-enrolling-on-non-domain-joined-computers)
-
-[Install and Configure Certificate Enrolment Policy Web Service](https://www.petenetlive.com/KB/Article/0001250)
-
-[Configuration d’un service web d’inscription de certificats pour le renouvellement basé sur les clés de certificat sur un port personnalisé](https://docs.microsoft.com/fr-fr/windows-server/identity/solution-guides/certificate-enrollment-certificate-key-based-renewal)
-
-## Git & Github :
-
-[Guide Markdown](https://guides.github.com/features/mastering-markdown/)
-
-[Git on the Server Generating Your SSH Public Key](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key)
-
-[Git Signer votre travail](https://git-scm.com/book/fr/v2/Utilitaires-Git-Signer-votre-travail)
-
-[Generating a new SSH key and adding it to the SSH agent](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-
-[Generating a new GPG key](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
-
-## GitOps
-
-[Gitops tour d'horizon : pratiques et outils](https://www.objectif-libre.com/fr/blog/2019/12/17/gitops-tour-horizon-pratiques-outils/)<br/>
-[A successful git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-
 ## Ansible
 
 [Documentation officielle d'Ansible](https://docs.ansible.com/ansible_community.html)
